@@ -1,0 +1,1 @@
+# awesome-no-signup-tools
